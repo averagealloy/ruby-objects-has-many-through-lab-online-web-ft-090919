@@ -4,6 +4,7 @@ attr_accessor :name
 @@all = []
 def initialize
 @name = name
-@genre 
+@genre = genre
+
 end
 end
