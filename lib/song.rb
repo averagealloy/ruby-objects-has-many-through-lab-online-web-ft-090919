@@ -12,7 +12,9 @@ def initialize(name, artist, genre)
 end
 
 
-def songs 
+def songs
+
+  
 
 def self.all
   @@all
