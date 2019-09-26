@@ -23,6 +23,6 @@ end
 
 
 def doctors
-apointments.collect {|app|}
+apointments.collect {|app| app}
 end
 end
