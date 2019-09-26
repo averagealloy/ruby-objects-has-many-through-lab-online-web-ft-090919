@@ -25,6 +25,7 @@ def doctors
   appointments.collect { |app| app.doctor }
 end
 
-def self
+def self.all
+  @@
 
 end
