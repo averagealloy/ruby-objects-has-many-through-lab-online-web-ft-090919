@@ -25,6 +25,6 @@ def self.all
 end
 
 
-new_song
+new_song(name )
 
 end
