@@ -6,5 +6,6 @@ attr_accessor :name
     @name = name
     @@all << self
   end
-def self.all 
+def self.all
+  @@
 end
