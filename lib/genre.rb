@@ -1,3 +1,3 @@
 class Genre
-attr_acc
+attr_accessor 
 end
