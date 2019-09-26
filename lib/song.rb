@@ -13,8 +13,8 @@ end
 
 
 def songs
-
-  
+S
+end
 
 def self.all
   @@all
