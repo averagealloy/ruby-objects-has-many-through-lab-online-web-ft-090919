@@ -5,6 +5,6 @@ attr_accessor :name
 def initialize
 @name = name
 @genre = genre
-@@all <<
+@@all << self 
 end
 end
