@@ -22,5 +22,7 @@ Apointment.all.select {|app| app.doctor == self}
 end
 
 
-def doctors 
+def doctors
+
+end 
 end
