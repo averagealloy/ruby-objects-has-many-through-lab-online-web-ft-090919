@@ -29,7 +29,7 @@ def self.all
   @@all
 end
 
-def self.patients
+def self.patients(name )
 
 end
 
