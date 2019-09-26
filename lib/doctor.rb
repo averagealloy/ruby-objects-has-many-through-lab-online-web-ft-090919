@@ -20,5 +20,5 @@ end
     appointments.map {|app| app.patient}
   end
 
-  def appoi
+  def appointm
 end
