@@ -16,6 +16,6 @@ def new_appointment
 end
 
 def patients
-apointments.map {|app| app.pat}
+apointments.map {|app| app.patient}
 end
 end
