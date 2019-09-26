@@ -32,3 +32,5 @@ end
 def self.patients
 
 end
+
+end
