@@ -1,9 +1,9 @@
 class Genre
-attr_accessor :name, :songs, :genre 
+attr_accessor :name, :songs, :genre
 
 @@all = []
-def initialize
-@name = name
+  def initialize
+    @name = name
 @genre = genre
 @@all << self
 end
