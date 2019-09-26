@@ -16,7 +16,7 @@ end
     Apointment.new(date, patient, self )
   end
 
-def patients
+  def patients
 apointments.map {|app| app.patient}
 end
 end
