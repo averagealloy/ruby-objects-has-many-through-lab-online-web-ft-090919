@@ -10,5 +10,5 @@ end
 
 def self.all
 
-
+@@
 end
