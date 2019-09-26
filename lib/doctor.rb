@@ -7,7 +7,7 @@ def initialize(name)
   @name =  name
   @@all << self
 end
-def apointment
+def apointments
 Apointment.all.select {|app| app.doctor == self}
 
 end
