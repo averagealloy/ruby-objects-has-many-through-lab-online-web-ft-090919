@@ -9,7 +9,6 @@ def initialize(name)
 end
 def apointments
 Apointment.all.select {|app| app.doctor == self}
-
 end
 
 
