@@ -22,6 +22,6 @@ end
 
 def artist
   songs.collect {|songs| songs.artist}
-  en
+end
 
 end
