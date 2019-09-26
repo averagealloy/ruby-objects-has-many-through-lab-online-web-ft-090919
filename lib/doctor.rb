@@ -17,6 +17,6 @@ end
   end
 
   def patients
-apointments.map {|app| app.patient}
-end
+    apointments.map {|app| app.patient}
+  end
 end
