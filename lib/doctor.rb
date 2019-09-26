@@ -24,6 +24,7 @@ class Doctor
 def doctors
   appointments.collect { |app| app.doctor }
 end
-def 
+
+
 
 end
