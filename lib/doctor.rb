@@ -3,6 +3,6 @@ attr_accessor :name
 
 @@all = []
 
-def initiali
+def initialize 
 
 end
