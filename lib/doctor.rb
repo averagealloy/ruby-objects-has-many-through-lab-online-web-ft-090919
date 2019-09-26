@@ -8,7 +8,7 @@ def initialize(name)
   @@all << self
 end
 def apointment
-Apointment.all.select {|app| }
+Apointment.all.select {|app| app.d}
 end
 
 end
