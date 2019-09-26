@@ -1,1 +1,1 @@
-class Pa
+class Patie
