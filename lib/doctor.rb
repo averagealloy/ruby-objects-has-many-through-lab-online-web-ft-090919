@@ -11,7 +11,7 @@ def apointments
 Apointment.all.select {|app| app.doctor == self}
 end
 
-def new_ap
+def new_app
 
 
 end
