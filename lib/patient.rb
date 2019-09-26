@@ -3,5 +3,5 @@ attr_accessor :name
 
 @@all = []
 
-def 
+def ini
 end
