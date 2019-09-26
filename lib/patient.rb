@@ -3,5 +3,5 @@ attr_accessor :name
 
 @@all = []
 
-def initia
+def initialize
 end
