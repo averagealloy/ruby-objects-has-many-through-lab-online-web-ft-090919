@@ -6,5 +6,5 @@ attr_accessor :name, :songs, :genre
     @name = name
     @genre = genre
     @@all << self
-end
+  end
 end
