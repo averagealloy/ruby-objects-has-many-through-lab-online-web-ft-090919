@@ -8,5 +8,10 @@ attr_accessor :name
   end
 def self.all
   @@all
-end 
+end
+
+
+def new_song(name, genre)
+  Song.new(name, self, genre )
+end
 end
