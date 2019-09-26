@@ -25,6 +25,6 @@ def doctors
   appointments.collect { |app| app.doctor }
 end
 
-
+def s
 
 end
