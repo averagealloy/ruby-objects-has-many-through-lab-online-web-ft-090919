@@ -12,9 +12,9 @@ end
     Apointment.all.select {|app| app.doctor == self}
   end
 
-def new_appointment
-  Apointment.new(date, patient, self )
-end
+  def new_appointment
+    Apointment.new(date, patient, self )
+  end
 
 def patients
 apointments.map {|app| app.patient}
