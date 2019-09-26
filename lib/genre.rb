@@ -21,6 +21,6 @@ Song.all.select {|song| song.genre == self}
 end
 
 def artist
-
+songs
 end
-end 
+end
