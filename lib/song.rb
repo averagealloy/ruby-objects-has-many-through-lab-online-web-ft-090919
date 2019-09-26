@@ -25,6 +25,6 @@ def self.all
 end
 
 
-ne
+new_son
 
 end
