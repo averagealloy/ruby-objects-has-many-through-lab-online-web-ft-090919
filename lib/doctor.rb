@@ -29,6 +29,6 @@ def self.all
   @@all
 end
 
-def se
+def self.pa
 
 end
