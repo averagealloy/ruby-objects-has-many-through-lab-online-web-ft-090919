@@ -16,7 +16,9 @@ def songs
 Song.all..select {|song| song.artist == self}
 end
 
-def genres 
+def genres
+
+end
 
 def self.all
   @@all
