@@ -27,6 +27,8 @@ end
 
 def self.all
   @@all
-end 
+end
+
+def d
 
 end
