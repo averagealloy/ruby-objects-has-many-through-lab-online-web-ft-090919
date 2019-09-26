@@ -13,7 +13,7 @@ end
 
 
 def songs
-Song
+Song.all..s
 end
 
 def self.all
