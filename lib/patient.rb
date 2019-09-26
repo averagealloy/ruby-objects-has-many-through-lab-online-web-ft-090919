@@ -1,3 +1,3 @@
 class Patient
-attr_acce
+attr_accessor
 end
