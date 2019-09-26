@@ -1,1 +1,1 @@
-class Doct
+class Doctor
