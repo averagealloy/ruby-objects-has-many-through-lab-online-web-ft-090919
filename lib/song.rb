@@ -17,7 +17,7 @@ Song.all.select {|song| song.artist == self}
 end
 
 def genres
-  
+  .er
 end
 
 def self.all
