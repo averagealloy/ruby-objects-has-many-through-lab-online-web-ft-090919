@@ -13,7 +13,7 @@ end
 
 
 def songs
-Song.all..select {|songs |}
+Song.all..select {|song|}
 end
 
 def self.all
