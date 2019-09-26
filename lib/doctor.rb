@@ -8,7 +8,7 @@ def initialize(name)
   @@all << self
 end
 def apointment
-
+A
 end
 
 end
