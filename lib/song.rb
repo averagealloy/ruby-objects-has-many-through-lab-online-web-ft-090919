@@ -11,6 +11,9 @@ def initialize(name, artist, genre)
   @@all << self
 end
 
+
+de
+
 def self.all
   @@all
 end
