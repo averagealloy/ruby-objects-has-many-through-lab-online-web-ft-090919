@@ -5,6 +5,6 @@ attr_accessor :name, :songs, :genre
   def initialize
     @name = name
     @genre = genre
-@@all << self
+    @@all << self
 end
 end
