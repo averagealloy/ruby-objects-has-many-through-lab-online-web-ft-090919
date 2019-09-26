@@ -29,6 +29,6 @@ def self.all
   @@all
 end
 
-def self.pat
+def self.patients
 
 end
