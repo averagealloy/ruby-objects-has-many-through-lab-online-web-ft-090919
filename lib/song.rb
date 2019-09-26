@@ -1,4 +1,4 @@
-class Song
+, class Song
 
 attr_accessor :name, :artist
 
@@ -26,7 +26,7 @@ end
 
 
 def new_song(name, genre)
-  Song.new(name, )
+  Song.new(name, self)
 
 end
 
