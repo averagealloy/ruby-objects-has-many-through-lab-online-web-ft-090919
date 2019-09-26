@@ -23,6 +23,6 @@ end
 
 
 def doctors
-apointme
+apointments
 end
 end
