@@ -1,1 +1,3 @@
-class Patie
+class Patient
+
+end
