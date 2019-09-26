@@ -13,7 +13,7 @@ end
 
 
 def songs
-Song.all..s
+Song.all..select
 end
 
 def self.all
