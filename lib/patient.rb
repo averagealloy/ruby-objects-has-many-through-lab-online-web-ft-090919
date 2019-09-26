@@ -24,5 +24,5 @@ end
 
 def doctors
 
-end 
+end
 end
