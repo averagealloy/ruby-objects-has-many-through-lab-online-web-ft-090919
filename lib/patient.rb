@@ -23,6 +23,6 @@ end
 
 
 def doctors
-apointments.colle
+apointments.collect 
 end
 end
