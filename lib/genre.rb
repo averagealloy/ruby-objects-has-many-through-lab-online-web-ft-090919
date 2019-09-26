@@ -4,6 +4,6 @@ attr_accessor :name
 @@all = []
 def initialize
 @name = name
-@
+@g
 end
 end
