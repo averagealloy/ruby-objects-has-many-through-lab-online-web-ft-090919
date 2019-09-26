@@ -30,6 +30,7 @@ def self.all
 end
 
 def self.patients(name)
+  
 
 end
 
