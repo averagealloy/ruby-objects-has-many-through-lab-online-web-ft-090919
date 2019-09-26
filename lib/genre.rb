@@ -1,5 +1,7 @@
 class Genre
 attr_accessor :name
 
-def initiali
+def initialize
+
+  
 end
