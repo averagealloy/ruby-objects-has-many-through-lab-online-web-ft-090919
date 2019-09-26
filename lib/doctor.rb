@@ -26,6 +26,6 @@ def doctors
 end
 
 def self.all
-  @@
+  @@all 
 
 end
