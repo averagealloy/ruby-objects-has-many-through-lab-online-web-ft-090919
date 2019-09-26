@@ -16,6 +16,6 @@ def new_appointment
 end
 
 def patients
-ap
+apo
 end
 end
