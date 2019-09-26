@@ -15,5 +15,5 @@ def new_appointment
   Apointment.new(date, patient, self )
 end
 
-def pat
+def patients 
 end
