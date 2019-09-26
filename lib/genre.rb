@@ -12,7 +12,7 @@ end
 
 
 def new_song(name, genre)
-  Song.new(name, genre, self )
+  Song.new(name, ar, self )
 end
 
 
