@@ -4,6 +4,6 @@ attr_accessor :name
 @@all = []
   def initialize(genre)
     @name = name
-    @@all 
+    @@all << sel
   end
 end
