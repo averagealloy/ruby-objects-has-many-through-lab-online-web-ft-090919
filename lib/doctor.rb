@@ -29,6 +29,6 @@ def self.all
   @@all
 end
 
-def doctor_wo
+def doctor_who 
 
 end
