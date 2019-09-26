@@ -12,7 +12,7 @@ def self.all
 @@all
 end
 
-def new_appointment(doctor,)
+def new_appointment(doctor, da)
   Appointment.new(date, patient, self )
 end
 
