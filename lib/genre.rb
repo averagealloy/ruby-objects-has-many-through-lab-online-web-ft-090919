@@ -21,6 +21,5 @@ Song.all.select {|song| song.genre == self}
 end
 
 def artist
-  songs.collect {|songs| so
 
 end
