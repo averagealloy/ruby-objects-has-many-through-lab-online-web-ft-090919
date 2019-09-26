@@ -8,7 +8,7 @@ def initialize(name)
   @@all << self
 end
 def apointment
-Apointment.all.sele
+Apointment.all.select
 end
 
 end
