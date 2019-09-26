@@ -1,4 +1,4 @@
 class Doctor
-attr_accessir
+attr_accessor
 
 end
