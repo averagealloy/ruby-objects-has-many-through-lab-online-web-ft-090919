@@ -7,6 +7,6 @@ def initialize(name)
   @name =  name
   @@all << self
 end
-def apo
+def apoin
 
 end
