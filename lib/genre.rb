@@ -11,7 +11,7 @@ def self.all
 end
 
 
-def new_song(name, ar)
+def new_song(name, artist)
   Song.new(name, artist, self )
 end
 
